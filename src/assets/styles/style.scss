@@ -1,0 +1,42 @@
+.koobai-input {
+    height: 42px;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;       
+    border: 1px solid var(--dark-border); 
+    &:focus {
+        border: 1px solid var(--darker-border); ;
+        outline: none;
+    }
+}
+
+.koobai-textarea {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;       
+    border: 1px solid var(--dark-border); 
+    &:focus {
+        border: 1px solid var(--darker-border); ;
+        outline: none;
+    }
+}
+
+.label {
+    margin-bottom: 0.8rem;
+    font-weight: bold;
+    color: var(--label-form);
+    font-size: smaller;
+    .required {
+        color: var(--danger);
+    }
+}
+
+input, textarea {
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    border-radius: 5px;       
+    border: 1px solid var(--dark-border); 
+    &:focus {
+        border: 1px solid var(--darker-border); ;
+        outline: none;
+    }
+}

@@ -1,0 +1,47 @@
+.header-modal-confirm-close {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.confirm-close-wrapper {
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  line-height: 18px;
+  margin-top: 8px;
+  color: white;
+
+  .title {
+    flex: 1;
+    display: flex;
+    align-items: center;
+  }
+
+  .value {
+    flex: 1;
+    display: flex;
+    align-items: center;
+  }
+
+  .img-asset {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin-right: 8px;
+  }
+
+  .high-color {
+    .sell-icon {
+      margin-right: 8px;
+    }
+
+    .buy-icon {
+      margin-right: 8px;
+      display: inline-block;
+      transform: rotate(180deg);
+    }
+  }
+}

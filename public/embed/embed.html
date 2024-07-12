@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body { color: #333; }
+        #container iframe {
+            width: 1280px;
+            margin: 20px auto;
+            min-height: 720px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script src="../embed.js"></script>
+    <script>
+        const headerElement = document.getElementById('header');
+        const totalHeight = window.innerHeight;
+        const style = window.getComputedStyle
+            ? getComputedStyle(headerElement, null)
+            : headerElement.currentStyle;
+        const marginTop = parseInt(style.marginTop) || 0;
+        const marginBottom = parseInt(style.marginBottom) || 0;
+        const totalMargin = marginTop + marginBottom;
+        const headerHeight = headerElement.offsetHeight + totalMargin;
+        const embedHeight = totalHeight - headerHeight - 1;
+        document.getElementById('container').style.height = embedHeight + 'px';
+
+        window.tsOptions({
+            // apiHost: `https://${window.location.host}`,
+            apiHost: 'https://fx-react.tradesmarter.com',
+            lang: 'ja',
+            themeSet: 'fsm'
+        }).render('#container');
+    </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+.trade-box-summary {
+  .trade-box-summary-row {
+    &:first-child {
+      margin-top: 8px;
+    }
+
+    &.is-total {
+      .title {
+        font-weight: 500;
+        font-size: 14px;
+      }
+    }
+
+    .title {
+      font-weight: normal;
+    }
+  }
+}
+
+.order-summary-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  cursor: pointer;
+}

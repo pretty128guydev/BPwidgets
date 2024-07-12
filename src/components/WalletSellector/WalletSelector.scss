@@ -1,0 +1,14 @@
+.wallet-select-item {
+  font-size: 14px;
+  line-height: 30px;
+  cursor: pointer;
+
+  .wallet-type {
+    text-align: right;
+  }
+
+  td {
+    white-space: nowrap;
+    padding: 0 4px;
+  }
+}

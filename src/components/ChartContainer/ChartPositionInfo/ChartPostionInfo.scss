@@ -1,0 +1,9 @@
+.trade-attribute {
+    display: flex;
+    justify-content: space-between;
+    > div:first-child {
+        font-size: 12px;
+        line-height: 14px;
+        font-style: italic;
+    }
+}

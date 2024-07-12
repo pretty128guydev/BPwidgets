@@ -1,0 +1,1695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-28 09:38+0000\n"
+"Last-Translator: Moshe Gabay <moshe@backpack.io>, 2021\n"
+"Language-Team: Malay (https://www.transifex.com/tradesmarter/teams/116351/ms/)\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"mime-version: 1.0\n"
+"x-generator: Poedit 2.4.2\n"
+
+#: src/components/Header/Account.tsx:137
+#: src/components/Header/Account.tsx:250
+#: src/components/modals/SignInModal/index.tsx:111
+#: src/components/modals/SignInModal/index.tsx:155
+msgid "Login"
+msgstr "Log Masuk"
+
+#: src/components/modals/SignInModal/index.tsx:136
+msgid "Forgot password?"
+msgstr "Lupa kata laluan?"
+
+#: src/components/modals/PasswordResetModal/index.tsx:118
+#: src/components/modals/SignInModal/index.tsx:145
+msgid "Create account"
+msgstr "Cipta akaun"
+
+#: src/components/modals/SignInModal/index.tsx:155
+msgid "Signing in..."
+msgstr "Mendaftar masuk..."
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:66
+#: src/components/modals/SellbackModal/index.tsx:66
+msgid "Sellback"
+msgstr "Sellback"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:102
+#: src/components/modals/SellbackModal/index.tsx:102
+msgid "Return"
+msgstr "Kembali"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:119
+#: src/components/modals/SellbackModal/index.tsx:119
+msgid "Confirm sellback"
+msgstr "Sahkan jualan semula"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:36
+msgid "Practice expired"
+msgstr "Amalan luput"
+
+#: src/components/modals/PracticeExpiredModal/index.tsx:43
+msgid "Switch to real"
+msgstr "Tukar ke sebenar"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:80
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "High"
+msgstr "Tinggi"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:80
+#: src/components/modals/SellbackModal/index.tsx:80
+msgid "Low"
+msgstr "Rendah"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:35
+#: src/components/Mobile/HomeMenuPanel/index.tsx:62
+#: src/components/Mobile/HomeMenuPanel/index.tsx:214
+#: src/components/Mobile/HomeMenuPanel/index.tsx:255
+#: src/components/Sidebar/index.tsx:307
+#: src/components/SidebarNew/index.tsx:332
+msgid "Trade"
+msgstr "Dagangan"
+
+#: src/components/Sidebar/SignalsPanel.tsx:30
+#: src/components/Sidebar/index.tsx:301
+#: src/components/SidebarNew/SignalsPanel.tsx:26
+#: src/components/SidebarNew/index.tsx:326
+msgid "Signals"
+msgstr "Isyarat"
+
+#: src/components/Sidebar/SocialPanel.tsx:30
+#: src/components/SidebarNew/SocialPanel.tsx:26
+msgid "Social"
+msgstr "Sosial"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:47
+#: src/components/Mobile/HomeMenuPanel/index.tsx:74
+#: src/components/Mobile/HomeMenuPanel/index.tsx:220
+#: src/components/Sidebar/VideoNews/index.tsx:85
+#: src/components/Sidebar/index.tsx:297
+#: src/components/SidebarNew/VideoNews/index.tsx:85
+#: src/components/SidebarNew/index.tsx:322
+msgid "Video News"
+msgstr "Berita Video"
+
+#: src/components/Sidebar/TutorialsPanel/index.tsx:61
+#: src/components/Sidebar/index.tsx:299
+#: src/components/SidebarNew/TutorialsPanel/index.tsx:61
+#: src/components/SidebarNew/index.tsx:324
+msgid "Tutorials"
+msgstr "Tutorial"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:51
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:51
+msgid "No Open Positions"
+msgstr "Tiada Kedudukan Terbuka"
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:54
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:54
+msgid "No Closed Positions"
+msgstr "Tiada Kedudukan Tertutup"
+
+#: src/components/Sidebar/services/TradeStatus.ts:6
+#: src/components/SidebarNew/services/TradeStatus.ts:6
+msgid "In the money"
+msgstr "Dalam wang"
+
+#: src/components/Sidebar/services/TradeStatus.ts:10
+#: src/components/SidebarNew/services/TradeStatus.ts:10
+msgid "Out of the money"
+msgstr "Daripada wang"
+
+#: src/components/Sidebar/services/TradeStatus.ts:8
+#: src/components/Sidebar/services/TradeStatus.ts:12
+#: src/components/SidebarNew/services/TradeStatus.ts:8
+#: src/components/SidebarNew/services/TradeStatus.ts:12
+msgid "At the money"
+msgstr "Pada wang"
+
+#: src/components/ChartContainer/ChartPositionInfo/index.tsx:92
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:104
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:87
+#: src/components/TradePanel/TradePanel.tsx:314
+#: src/components/TradePanel/TradePanelNonMargin.tsx:314
+msgid "Trade ID"
+msgstr "ID Dagangan"
+
+#: src/components/Sidebar/PositionsPanel/MobilePositionsPanel.tsx:65
+#: src/components/Sidebar/PositionsPanel/index.tsx:56
+#: src/components/SidebarNew/PositionsPanel/MobilePositionsPanel.tsx:59
+#: src/components/SidebarNew/PositionsPanel/index.tsx:56
+msgid "OPEN POSITIONS"
+msgstr "KEDUDUKAN TERBUKA"
+
+#: src/components/Sidebar/PositionsPanel/MobilePositionsPanel.tsx:65
+#: src/components/Sidebar/PositionsPanel/index.tsx:56
+#: src/components/SidebarNew/PositionsPanel/MobilePositionsPanel.tsx:59
+#: src/components/SidebarNew/PositionsPanel/index.tsx:56
+msgid "CLOSED POSITIONS"
+msgstr "KEDUDUKAN TERTUTUP"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:39
+#: src/components/Mobile/HomeMenuPanel/index.tsx:66
+#: src/components/Mobile/HomeMenuPanel/index.tsx:216
+#: src/components/Mobile/HomeMenuPanel/index.tsx:258
+#: src/components/Sidebar/PositionsPanel/MobilePositionsPanel.tsx:198
+#: src/components/Sidebar/PositionsPanel/index.tsx:122
+#: src/components/SidebarNew/PositionsPanel/MobilePositionsPanel.tsx:155
+#: src/components/SidebarNew/PositionsPanel/index.tsx:123
+#: src/components/SidebarNew/index.tsx:318
+msgid "Positions"
+msgstr "Kedudukan"
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:55
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:52
+msgid "Read More"
+msgstr "Baca Lagi"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "GENERAL"
+msgstr "UMUM"
+
+#: src/components/Sidebar/NewsPanel/index.tsx:25
+#: src/components/SidebarNew/NewsPanel/index.tsx:25
+msgid "CRYPTO"
+msgstr "KRIPTO"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:43
+#: src/components/Mobile/HomeMenuPanel/index.tsx:70
+#: src/components/Mobile/HomeMenuPanel/index.tsx:218
+#: src/components/Sidebar/NewsPanel/index.tsx:36
+#: src/components/Sidebar/index.tsx:295
+#: src/components/SidebarNew/NewsPanel/index.tsx:36
+#: src/components/SidebarNew/index.tsx:320
+msgid "News"
+msgstr "Berita"
+
+#: src/components/Mobile/Header/WalletSellector/WalletSelector.tsx:81
+#: src/components/Mobile/Header/headerNonMargin.tsx:198
+#: src/components/WalletSellector/WalletSelector.tsx:80
+msgid "Practice"
+msgstr "Amalan"
+
+#: src/components/Mobile/Header/WalletSellector/WalletSelector.tsx:79
+#: src/components/Mobile/Header/headerNonMargin.tsx:202
+#: src/components/WalletSellector/WalletSelector.tsx:78
+msgid "Real"
+msgstr "Sebenar"
+
+#: src/components/AccountBar/index.tsx:146
+#: src/components/AccountBarNonMargin/index.tsx:91
+#: src/components/ChallengeDashboard/index.tsx:272
+#: src/components/ChallengeDashboard/index.tsx:657
+#: src/components/ChallengeDashboardNonMargin/index.tsx:267
+#: src/components/ChallengeDashboardNonMargin/index.tsx:618
+#: src/components/Dashboard/Cash/index.tsx:36
+#: src/components/DashboardNonMargin/Cash/index.tsx:36
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:171
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:173
+#: src/components/Mobile/Header/headerNonMargin.tsx:206
+#: src/components/Mobile/Header/index.tsx:255
+#: src/components/modals/CreateChallengeSuccess/index.tsx:41
+msgid "Balance"
+msgstr "Baki"
+
+#: src/components/AccountBarNonMargin/index.tsx:103
+#: src/components/ChallengeDashboardNonMargin/index.tsx:337
+#: src/components/Mobile/Header/headerNonMargin.tsx:223
+msgid "Invested"
+msgstr "Dilaburkan"
+
+#: src/components/Header/Account.tsx:232
+#: src/components/Mobile/Drawer/drawerMenu.tsx:282
+#: src/components/SideMenuBar/index.tsx:331
+msgid "Log out"
+msgstr "Log keluar"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:117
+msgid "Out of trading hours"
+msgstr "Kehabisan waktu dagangan"
+
+#: src/components/ChartContainer/OutOfTradingHours.tsx:131
+msgid "Will become available again on"
+msgstr "Akan tersedia lagi"
+
+#: src/components/Assets/SearchSideMode/index.tsx:39
+#: src/components/ChartContainer/InstrumentsBar/index.tsx:175
+msgid "All assets"
+msgstr "Semua aset"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:69
+#: src/components/AccountBar/BonusWalletPicker/index.tsx:34
+#: src/components/AccountBar/index.tsx:183
+#: src/components/AccountBarNonMargin/BonusWalletPicker/BonusWalletInfo.tsx:69
+#: src/components/AccountBarNonMargin/BonusWalletPicker/index.tsx:34
+#: src/components/AccountBarNonMargin/index.tsx:122
+msgid "Available bonus"
+msgstr "Bonus yang tersedia"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:53
+#: src/components/modals/SignInModal/FieldGroup.tsx:53
+msgid "Email address"
+msgstr "Alamat e-mel"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:54
+#: src/components/modals/SignInModal/FieldGroup.tsx:54
+msgid "Password"
+msgstr "Kata Laluan"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:58
+#: src/components/modals/SignInModal/FieldGroup.tsx:58
+msgid "Enter your email address"
+msgstr "Masukkan alamat email Anda"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:59
+#: src/components/modals/SignInModal/FieldGroup.tsx:59
+msgid "Enter your password"
+msgstr "Masukkan kata laluan anda"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:63
+#: src/components/modals/SignInModal/FieldGroup.tsx:63
+msgid "Please enter valid email address"
+msgstr "Sila masukkan alamat e-mel yang sah"
+
+#: src/components/modals/OpenAccountModal/FieldGroup.tsx:64
+#: src/components/modals/SignInModal/FieldGroup.tsx:64
+msgid "Please enter your password"
+msgstr "Sila masukkan kata laluan anda"
+
+#: src/components/Header/Account.tsx:68
+#: src/components/Mobile/Dashboard.tsx:40
+#: src/components/Mobile/DashboardNonMargin.tsx:40
+#: src/components/Mobile/Drawer/index.tsx:56
+#: src/components/Mobile/HomeMenuPanel/index.tsx:51
+#: src/components/Mobile/HomeMenuPanel/index.tsx:210
+#: src/components/Sidebar/index.tsx:291
+#: src/components/SidebarNew/index.tsx:316
+#: src/components/helper.tsx:6
+msgid "Dashboard"
+msgstr "Papan Pemuka"
+
+#: src/components/Header/Account.tsx:70
+#: src/components/Mobile/Drawer/index.tsx:57
+msgid "Settings"
+msgstr "Tetapan"
+
+#: src/components/Header/Account.tsx:72
+#: src/components/Header/index.tsx:109
+#: src/components/Mobile/Drawer/index.tsx:58
+msgid "Deposit"
+msgstr "Deposit"
+
+#: src/components/Header/Account.tsx:74
+#: src/components/Mobile/Drawer/index.tsx:59
+#: src/components/helper.tsx:28
+msgid "Withdrawal"
+msgstr "Pengeluaran"
+
+#: src/components/Header/Account.tsx:76
+#: src/components/Mobile/Drawer/index.tsx:60
+#: src/components/helper.tsx:30
+msgid "Transfer Funds"
+msgstr "Pemindahan Dana"
+
+#: src/components/Header/Account.tsx:78
+#: src/components/Mobile/Drawer/index.tsx:61
+#: src/components/helper.tsx:24
+msgid "Add Account"
+msgstr "Tambah Akaun"
+
+#: src/components/Header/Account.tsx:80
+#: src/components/Mobile/Drawer/index.tsx:62
+#: src/components/helper.tsx:46
+msgid "Privacy Center"
+msgstr "Pusat Privasi"
+
+#: src/components/Header/Account.tsx:82
+#: src/components/Mobile/Drawer/index.tsx:63
+#: src/components/helper.tsx:32
+msgid "Transactions"
+msgstr "Transaksi"
+
+#: src/sagas/tradingSaga.ts:306
+msgid "Cancelled Successfully"
+msgstr "Dibatalkan Berjaya"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:36
+#: src/components/modals/SessionExpiredModal/index.tsx:30
+msgid "Logged Out"
+msgstr "Log Keluar"
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:43
+msgid "Your guest demo account expired, please create real account."
+msgstr "Akaun demo tetamu anda tamat tempoh, sila buat akaun sebenar."
+
+#: src/components/modals/GuestDemoExpiredModal/index.tsx:50
+msgid "Create real account"
+msgstr "Cipta akaun sebenar"
+
+#: src/components/Header/index.tsx:118
+#: src/components/Mobile/Drawer/index.tsx:82
+msgid "Guest demo"
+msgstr "Demo tetamu"
+
+#: src/components/Assets/Groups/constants/groups.ts:33
+#: src/components/Assets/Groups/index.tsx:63
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:33
+#: src/components/Assets/GroupsSideMode/index.tsx:64
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:33
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:64
+msgid "Crypto"
+msgstr "Kripto"
+
+#: src/components/Assets/Groups/constants/groups.ts:51
+#: src/components/Assets/Groups/index.tsx:69
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:51
+#: src/components/Assets/GroupsSideMode/index.tsx:70
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:51
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:70
+msgid "Commodities"
+msgstr "Komoditi"
+
+#: src/components/Assets/Groups/constants/groups.ts:57
+#: src/components/Assets/Groups/index.tsx:71
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:57
+#: src/components/Assets/GroupsSideMode/index.tsx:72
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:57
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:72
+msgid "Indices"
+msgstr "Indeks"
+
+#: src/components/Assets/Groups/constants/groups.ts:45
+#: src/components/Assets/Groups/index.tsx:67
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:45
+#: src/components/Assets/GroupsSideMode/index.tsx:68
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:45
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:68
+msgid "Stocks"
+msgstr "Stok"
+
+#: src/components/Assets/Groups/constants/groups.ts:39
+#: src/components/Assets/Groups/index.tsx:65
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:39
+#: src/components/Assets/GroupsSideMode/index.tsx:66
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:39
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:66
+msgid "Currencies"
+msgstr "Mata Wang"
+
+#: src/components/modals/PasswordResetModal/index.tsx:100
+#: src/components/modals/PasswordResetModal/index.tsx:160
+#: src/components/modals/PasswordResetModal/index.tsx:177
+msgid "Restore password"
+msgstr "Pulihkan kata laluan"
+
+#: src/components/modals/PasswordResetModal/index.tsx:102
+msgid "Please enter your email address and we will send you instruction on how to reset your password."
+msgstr "Sila masukkan alamat e-mel anda dan kami akan menghantar arahan mengenai cara untuk menetapkan semula kata laluan anda."
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:471
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:240
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:196
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:196
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:214
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:144
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:287
+#: src/components/TradePanel/ModalEditStopLossNonMargin/index.tsx:158
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:284
+#: src/components/TradePanel/ModalEditTakeProfitNonMargin/index.tsx:152
+#: src/components/TradePanel/TradePanel.tsx:340
+#: src/components/TradePanel/TradePanel.tsx:548
+#: src/components/TradePanel/TradePanelNonMargin.tsx:335
+#: src/components/TradePanel/TradePanelNonMargin.tsx:516
+#: src/components/modals/PasswordResetModal/index.tsx:129
+msgid "Cancel"
+msgstr "Batal"
+
+#: src/components/modals/PasswordResetModal/index.tsx:141
+msgid "Submit"
+msgstr "Hantar"
+
+#: src/components/modals/PasswordResetModal/index.tsx:179
+#. *
+#. * Show success contents
+#. 
+msgid "We have reset the password, please check the email"
+msgstr "Kami telah menetapkan semula kata laluan, sila semak e-mel"
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:205
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:200
+#: src/components/TradePanel/TradePanel.tsx:340
+#: src/components/TradePanel/TradePanel.tsx:547
+#: src/components/TradePanel/TradePanelNonMargin.tsx:515
+#: src/components/modals/PasswordResetModal/index.tsx:188
+#: src/components/modals/SessionExpiredModal/index.tsx:39
+msgid "Close"
+msgstr "Tutup"
+
+#: src/components/ChartContainer/ChartPositionInfo/index.tsx:103
+#: src/components/Dashboard/RecentTrades/table.tsx:87
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:87
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:123
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:155
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:146
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:123
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:153
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:146
+#: src/components/TradeBoxFx/TradeBoxAmountUnits/index.tsx:566
+#: src/components/TradeBoxFx/TradeBoxMultiplier/index.tsx:161
+#: src/components/TradeBoxFx/TradeBoxSwitchNonMargin/index.tsx:79
+#: src/components/TradePanel/TradePanel.tsx:318
+#: src/components/TradePanel/TradePanelNonMargin.tsx:317
+msgid "Amount"
+msgstr "Amaun"
+
+#: src/components/notifications/TradeSubmit/index.tsx:129
+msgid "The trade was successfully opened"
+msgstr "Perdagangan telah berjaya dibuka"
+
+#: src/components/notifications/TradeSubmit/index.tsx:107
+msgid "Minimum investment amount"
+msgstr "Amaun pelaburan minimum"
+
+#: src/components/notifications/TradeSubmit/index.tsx:110
+msgid "Maximum investment amount"
+msgstr "Jumlah pelaburan maksimum"
+
+#: src/components/AccountBar/index.tsx:28
+#: src/components/AccountBarNonMargin/index.tsx:24
+msgid "Balance Bonus"
+msgstr "Bonus Baki"
+
+#: src/components/AccountBar/index.tsx:29
+#: src/components/AccountBarNonMargin/index.tsx:25
+msgid "Smart Bonus"
+msgstr "Bonus Pintar"
+
+#: src/components/AccountBar/index.tsx:30
+#: src/components/AccountBarNonMargin/index.tsx:26
+msgid "Pending Bonus"
+msgstr "Bonus Tertangguh"
+
+#: src/components/AccountBar/index.tsx:31
+#: src/components/AccountBarNonMargin/index.tsx:27
+msgid "Profit Bonus"
+msgstr "Bonus Keuntungan"
+
+#: src/components/AccountBar/index.tsx:32
+#: src/components/AccountBarNonMargin/index.tsx:28
+msgid "Sticky Bonus"
+msgstr "Bonus Lekit"
+
+#: src/components/AccountBar/index.tsx:33
+#: src/components/AccountBarNonMargin/index.tsx:29
+msgid "No Deposit Bonus"
+msgstr "Tiada Bonus Deposit"
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:145
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:145
+#: src/components/TradePanel/TradePanel.tsx:329
+#: src/components/TradePanel/TradePanelNonMargin.tsx:319
+msgid "Closed Price"
+msgstr "Harga Ditutup"
+
+#: src/components/Dashboard/RecentTrades/table.tsx:53
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:53
+#: src/components/modals/ConfirmCloseTrade/index.tsx:74
+#: src/components/modals/SellbackModal/index.tsx:74
+msgid "ID"
+msgstr "ID"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:78
+#: src/components/modals/SellbackModal/index.tsx:78
+msgid "Type"
+msgstr "Jenis"
+
+#: src/components/modals/ConfirmCloseTrade/index.tsx:84
+#: src/components/modals/SellbackModal/index.tsx:84
+msgid "Asset"
+msgstr "Aset"
+
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:123
+#: src/components/modals/ConfirmCloseTrade/index.tsx:98
+#: src/components/modals/SellbackModal/index.tsx:98
+msgid "Spot Price"
+msgstr "Harga Spot"
+
+#: src/components/modals/SessionExpiredModal/index.tsx:36
+msgid "You are logged out, please log in to the platform."
+msgstr "Anda log keluar, sila log masuk ke platform."
+
+#: src/components/Sidebar/services/TradeStatus.ts:14
+#: src/components/SidebarNew/services/TradeStatus.ts:14
+msgid "Sold back"
+msgstr "Dijual kembali"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:74
+#: src/components/AccountBarNonMargin/BonusWalletPicker/BonusWalletInfo.tsx:74
+msgid "Released bonus"
+msgstr "Bonus yang dikeluarkan"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:79
+#: src/components/AccountBarNonMargin/BonusWalletPicker/BonusWalletInfo.tsx:79
+msgid "Original bonus"
+msgstr "Bonus asal"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:84
+#: src/components/AccountBarNonMargin/BonusWalletPicker/BonusWalletInfo.tsx:84
+msgid "Volume traded"
+msgstr "Volum yang didagangkan"
+
+#: src/components/AccountBar/BonusWalletPicker/BonusWalletInfo.tsx:89
+#: src/components/AccountBarNonMargin/BonusWalletPicker/BonusWalletInfo.tsx:89
+msgid "Volume required"
+msgstr "Volum diperlukan"
+
+#: src/components/Sidebar/index.tsx:305
+#: src/components/SidebarNew/index.tsx:330
+msgid "Markets"
+msgstr "Pasaran"
+
+#: src/components/Assets/Search/index.tsx:32
+#: src/components/Assets/SearchSideMode/index.tsx:68
+#: src/components/Mobile/SearchAssetsPanel/Search/index.tsx:51
+msgid "Type asset name to search"
+msgstr "Taip nama aset untuk carian"
+
+#: src/components/Assets/Groups/constants/groups.ts:8
+#: src/components/Assets/Groups/index.tsx:55
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:8
+#: src/components/Assets/GroupsSideMode/index.tsx:56
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:8
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:56
+msgid "Favorites"
+msgstr "Kegemaran"
+
+#: src/components/Assets/Groups/constants/groups.ts:15
+#: src/components/Assets/Groups/index.tsx:57
+msgid "Hot assets"
+msgstr "Aset Panas"
+
+#: src/components/Assets/Groups/constants/groups.ts:21
+#: src/components/Assets/Groups/index.tsx:59
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:21
+#: src/components/Assets/GroupsSideMode/index.tsx:60
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:21
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:60
+msgid "Recently traded"
+msgstr "Baru-baru ini didagangkan"
+
+#: src/components/Assets/Table/index.tsx:164
+msgid "instrument"
+msgstr "alat"
+
+#: src/components/Assets/Table/index.tsx:169
+msgid "description"
+msgstr "PENERANGAN"
+
+#: src/components/Assets/TableSideMode/index.tsx:103
+#: src/components/Mobile/SearchAssetsPanel/Table/index.tsx:110
+msgid "price"
+msgstr "harga"
+
+#: src/components/Assets/Table/index.tsx:208
+msgid "open trades"
+msgstr "PERDAGANGAN TERBUKA"
+
+#: src/components/Assets/Table/index.tsx:214
+msgid "add/remove"
+msgstr "TAMBAH/KELUARKAN"
+
+#: src/components/ui/TopIcon.tsx:82
+msgid "Add to chart"
+msgstr "Tambahkan pada carta"
+
+#: src/components/ui/TopIcon.tsx:82
+msgid "Remove from chart"
+msgstr "Alih keluar daripada carta"
+
+#: src/components/ui/FavIcon.tsx:82
+msgid "Add to Favorites"
+msgstr "Tambahkan pada kegemaran"
+
+#: src/components/ui/FavIcon.tsx:82
+msgid "Remove from Favorites"
+msgstr "Alih keluar daripada kegemaran"
+
+#: src/components/ChallengeDashboard/index.tsx:471
+#: src/components/ChallengeDashboardNonMargin/index.tsx:470
+#: src/components/Dashboard/TopTradedAssets/index.tsx:68
+#: src/components/DashboardNonMargin/TopTradedAssets/index.tsx:68
+msgid "Top traded assets"
+msgstr "Aset Dagangan Teratas"
+
+#: src/components/ChallengeDashboard/index.tsx:540
+#: src/components/ChallengeDashboardNonMargin/index.tsx:539
+#: src/components/Dashboard/TradeVolume/chart.tsx:57
+#: src/components/DashboardNonMargin/TradeVolume/chart.tsx:57
+msgid "Volume Per Day"
+msgstr "Jumlah Sehari"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:61
+#: src/components/DashboardNonMargin/TradeVolume/index.tsx:61
+msgid "total traded volume"
+msgstr "Jumlah Jumlah dagangan"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:72
+#: src/components/DashboardNonMargin/TradeVolume/index.tsx:72
+msgid "number of trades"
+msgstr "Bilangan Dagangan"
+
+#: src/components/Dashboard/TradeVolume/index.tsx:83
+#: src/components/DashboardNonMargin/TradeVolume/index.tsx:83
+msgid "average volume"
+msgstr "Volum Purata"
+
+#: src/components/Dashboard/RecentUpdates/index.tsx:25
+#: src/components/DashboardNonMargin/RecentUpdates/index.tsx:25
+#. const colors = FakeData.theme
+msgid "Recent Updates"
+msgstr "Kemas Kini Terkini"
+
+#: src/components/ChallengeDashboard/index.tsx:597
+#: src/components/ChallengeDashboardNonMargin/index.tsx:558
+#: src/components/Dashboard/RecentTrades/index.tsx:32
+#: src/components/DashboardNonMargin/RecentTrades/index.tsx:32
+msgid "Recent Trades"
+msgstr "Dagangan Terkini"
+
+#: src/components/Dashboard/RecentTrades/download.tsx:167
+#: src/components/DashboardNonMargin/RecentTrades/download.tsx:167
+msgid "Download"
+msgstr "Muat turun"
+
+#: src/components/ChartContainer/period.tsx:19
+#: src/components/ChartContainer/period.tsx:21
+msgid "Tick"
+msgstr ""
+
+#: src/components/ChartContainer/period.tsx:31
+msgid "1m"
+msgstr "1m"
+
+#: src/components/ChartContainer/period.tsx:33
+msgid "1 Minute"
+msgstr "1 Minit"
+
+#: src/components/ChartContainer/period.tsx:43
+msgid "2m"
+msgstr "2m"
+
+#: src/components/ChartContainer/period.tsx:45
+msgid "2 Minutes"
+msgstr "2 Minit"
+
+#: src/components/ChartContainer/period.tsx:55
+msgid "5m"
+msgstr "5m"
+
+#: src/components/ChartContainer/period.tsx:57
+msgid "5 Minutes"
+msgstr "5 Minit"
+
+#: src/components/ChartContainer/period.tsx:67
+msgid "15m"
+msgstr "15m"
+
+#: src/components/ChartContainer/period.tsx:69
+msgid "15 Minutes"
+msgstr "15 Minit"
+
+#: src/components/ChartContainer/period.tsx:79
+msgid "30m"
+msgstr "30m"
+
+#: src/components/ChartContainer/period.tsx:81
+msgid "30 Minutes"
+msgstr "30 Minit"
+
+#: src/components/ChartContainer/period.tsx:91
+msgid "1h"
+msgstr "1h"
+
+#: src/components/ChartContainer/period.tsx:93
+msgid "1 Hour"
+msgstr "1 Jam"
+
+#: src/components/ChartContainer/period.tsx:103
+msgid "2h"
+msgstr "2h"
+
+#: src/components/ChartContainer/period.tsx:105
+msgid "2 Hours"
+msgstr "2 Jam"
+
+#: src/components/ChartContainer/period.tsx:115
+msgid "4h"
+msgstr "4h"
+
+#: src/components/ChartContainer/period.tsx:117
+msgid "4 Hours"
+msgstr "4 Jam"
+
+#: src/components/ChartContainer/period.tsx:127
+msgid "1d"
+msgstr "1d"
+
+#: src/components/ChartContainer/period.tsx:129
+msgid "1 Day"
+msgstr "1 Hari"
+
+#: src/components/ChartContainer/period.tsx:139
+msgid "1w"
+msgstr "1w"
+
+#: src/components/ChartContainer/period.tsx:141
+msgid "1 Week"
+msgstr "1 Minggu"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:55
+#: src/components/Mobile/HomeMenuPanel/index.tsx:82
+#: src/components/Mobile/HomeMenuPanel/index.tsx:222
+#: src/components/Mobile/HomeMenuPanel/index.tsx:244
+#: src/components/Sidebar/index.tsx:303
+#: src/components/SidebarNew/index.tsx:328
+msgid "Daily Analysis"
+msgstr ""
+
+#: src/components/Sidebar/index.tsx:443
+#: src/components/SidebarNew/index.tsx:468
+msgid "new"
+msgstr ""
+
+#: src/components/ChartContainer/ChartPositionInfo/index.tsx:123
+msgid "Close Trade"
+msgstr ""
+
+#: src/components/Sidebar/NewsPanel/NewsFeedItem.tsx:47
+#: src/components/SidebarNew/NewsPanel/NewsFeedItem.tsx:47
+msgid "Read Less"
+msgstr ""
+
+#: src/components/Sidebar/DailyAnalysisPanel/index.tsx:31
+#: src/components/SidebarNew/DailyAnalysisPanel/index.tsx:31
+msgid "daily analysis"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:168
+#: src/components/ChallengeDashboardNonMargin/index.tsx:166
+#: src/components/Dashboard/TopTradedAssets/index.tsx:55
+#: src/components/DashboardNonMargin/TopTradedAssets/index.tsx:55
+msgid "Other"
+msgstr ""
+
+#: src/components/Assets/Table/index.tsx:174
+msgid "status"
+msgstr "Status"
+
+#: src/components/Assets/Table/index.tsx:111
+msgid "Opens in"
+msgstr ""
+
+#: src/components/Assets/Table/index.tsx:220
+msgid "actions"
+msgstr "Tindakan"
+
+#: src/components/Assets/Table/index.tsx:293
+msgid "Open"
+msgstr "Buka"
+
+#: src/components/Assets/Groups/constants/groups.ts:27
+#: src/components/Assets/Groups/index.tsx:61
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:27
+#: src/components/Assets/GroupsSideMode/index.tsx:62
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:27
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:62
+msgid "Top riser/fallen"
+msgstr "Pengangkat atas/jatuh"
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:224
+#: src/components/Mobile/HomeMenuPanel/index.tsx:245
+#: src/components/Sidebar/index.tsx:309
+#: src/components/SidebarNew/index.tsx:334
+msgid "Leaderboard"
+msgstr ""
+
+#: src/components/Sidebar/VideoNews/index.tsx:77
+#: src/components/SidebarNew/VideoNews/index.tsx:77
+msgid "Market session Brief"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:47
+#: src/components/SidebarNew/LeaderBoard/index.tsx:47
+msgid "TODAY"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:47
+#: src/components/SidebarNew/LeaderBoard/index.tsx:47
+msgid "THIS WEEK"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:47
+#: src/components/SidebarNew/LeaderBoard/index.tsx:47
+msgid "THIS MONTH"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:98
+#: src/components/SidebarNew/LeaderBoard/index.tsx:98
+msgid "Trader’s Performance"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:103
+#: src/components/SidebarNew/LeaderBoard/index.tsx:103
+msgid "Rank"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:104
+#: src/components/SidebarNew/LeaderBoard/index.tsx:104
+msgid "Name"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:105
+#: src/components/SidebarNew/LeaderBoard/index.tsx:105
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:118
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:145
+msgid "Profit"
+msgstr ""
+
+#: src/components/Sidebar/LeaderBoard/index.tsx:122
+#: src/components/SidebarNew/LeaderBoard/index.tsx:122
+msgid "Load more"
+msgstr ""
+
+#: src/components/Assets/Table/index.tsx:181
+msgid "24h change"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:391
+#: src/components/TradeBoxFx/index.tsx:614
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:238
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:235
+msgid "Price"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:179
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:179
+msgid "SELL"
+msgstr ""
+
+#: src/sagas/tradingSaga.ts:278
+msgid "Edit trade successfull"
+msgstr ""
+
+#: src/sagas/tradingSaga.ts:288
+msgid "Edit trade fail"
+msgstr ""
+
+#: src/components/helper.tsx:8
+msgid "My Profile"
+msgstr ""
+
+#: src/components/helper.tsx:10
+msgid "Accounts"
+msgstr ""
+
+#: src/components/helper.tsx:12
+msgid "Trading"
+msgstr ""
+
+#: src/components/helper.tsx:14
+msgid "Expiry Prices"
+msgstr ""
+
+#: src/components/helper.tsx:16
+msgid "Asset Index"
+msgstr ""
+
+#: src/components/helper.tsx:18
+msgid "Terms & Privacy"
+msgstr ""
+
+#: src/components/helper.tsx:20
+msgid "Trading Accounts"
+msgstr ""
+
+#: src/components/helper.tsx:22
+msgid "Add Accounts"
+msgstr ""
+
+#: src/components/helper.tsx:26
+msgid "Add Funds"
+msgstr ""
+
+#: src/components/helper.tsx:34
+msgid "Transaction"
+msgstr ""
+
+#: src/components/helper.tsx:36
+msgid "Delete Account"
+msgstr ""
+
+#: src/components/helper.tsx:38
+msgid "Edit Profile"
+msgstr ""
+
+#: src/components/helper.tsx:40
+msgid "Account Verification"
+msgstr ""
+
+#: src/components/helper.tsx:42
+msgid "Change Password"
+msgstr ""
+
+#: src/components/helper.tsx:44
+msgid "Mobile Verification"
+msgstr ""
+
+#: src/components/helper.tsx:48
+msgid "Trading History"
+msgstr ""
+
+#: src/components/notifications/TradeSubmit/TradeSubmittedPositionClosed.tsx:30
+msgid "Trade Closed"
+msgstr ""
+
+#: src/components/modals/CreateChallengeSuccess/index.tsx:33
+msgid "Congratulations"
+msgstr ""
+
+#: src/components/modals/CreateChallengeSuccess/index.tsx:37
+msgid "You have successfully created a new challenge"
+msgstr ""
+
+#: src/components/Mobile/Drawer/drawerMenu.tsx:211
+#: src/components/Mobile/Header/WalletSellector/WalletSelector.tsx:80
+#: src/components/SideMenuBar/index.tsx:150
+#: src/components/SideMenuBar/index.tsx:240
+#: src/components/SideMenuBar/index.tsx:244
+#: src/components/SideMenuBar/index.tsx:254
+#: src/components/SideMenuBar/index.tsx:260
+#: src/components/WalletSellector/WalletSelector.tsx:79
+#: src/components/modals/CreateChallengeSuccess/index.tsx:38
+msgid "Challenge"
+msgstr ""
+
+#: src/components/modals/CreateChallengeSuccess/index.tsx:44
+msgid "Target"
+msgstr ""
+
+#: src/components/modals/CreateChallengeSuccess/index.tsx:49
+msgid "Drowdown limit"
+msgstr ""
+
+#: src/components/modals/CreateChallengeSuccess/index.tsx:55
+msgid "Start"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:90
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:88
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:88
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:88
+#: src/components/TradePanel/TradePanel.tsx:158
+#: src/components/TradePanel/TradePanel.tsx:177
+#: src/components/TradePanel/TradePanelNonMargin.tsx:156
+#: src/components/TradePanel/TradePanelNonMargin.tsx:175
+msgid "Close trade fail"
+msgstr ""
+
+#: src/components/TradePanel/TradePanel.tsx:258
+#: src/components/TradePanel/TradePanel.tsx:274
+#: src/components/TradePanel/TradePanel.tsx:284
+#: src/components/TradePanel/TradePanelNonMargin.tsx:256
+#: src/components/TradePanel/TradePanelNonMargin.tsx:273
+#: src/components/TradePanel/TradePanelNonMargin.tsx:284
+msgid "Open Positions"
+msgstr ""
+
+#: src/components/TradePanel/TradePanel.tsx:276
+#: src/components/TradePanel/TradePanelNonMargin.tsx:275
+#: src/components/TradePanel/TradePanelNonMargin.tsx:290
+msgid "Open Orders"
+msgstr ""
+
+#: src/components/TradePanel/TradePanel.tsx:277
+#: src/components/TradePanel/TradePanel.tsx:296
+#: src/components/TradePanel/TradePanelNonMargin.tsx:276
+#: src/components/TradePanel/TradePanelNonMargin.tsx:296
+msgid "Closed Positions"
+msgstr ""
+
+#: src/components/TradePanel/TradePanel.tsx:290
+msgid "Limit Orders"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:56
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:56
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:100
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:136
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:100
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:134
+#: src/components/TradePanel/TradePanel.tsx:311
+#: src/components/TradePanel/TradePanelNonMargin.tsx:311
+msgid "Open Time"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:127
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:127
+#: src/components/TradePanel/TradePanel.tsx:312
+#: src/components/TradePanel/TradePanelNonMargin.tsx:312
+msgid "Placed Date"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:66
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:66
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:91
+#: src/components/TradePanel/TradePanel.tsx:315
+#: src/components/TradePanel/TradePanelNonMargin.tsx:315
+msgid "Direction"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:73
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:73
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:112
+#: src/components/TradePanel/TradePanel.tsx:316
+#: src/components/TradePanel/TradePanelNonMargin.tsx:316
+msgid "Symbol"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:80
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:80
+#: src/components/TradeBoxFx/TradeBoxAmountUnits/index.tsx:510
+#: src/components/TradePanel/TradePanel.tsx:317
+msgid "Lots"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:80
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:80
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:109
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:141
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:132
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:109
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:139
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:132
+#: src/components/TradeBoxFx/TradeBoxAmountUnits/index.tsx:497
+#: src/components/TradePanel/TradePanel.tsx:317
+msgid "Units"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:132
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:155
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:132
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:155
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:107
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:143
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:134
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:170
+#: src/components/TradePanel/TradePanel.tsx:322
+#: src/components/TradePanel/TradePanelNonMargin.tsx:318
+msgid "Open Price"
+msgstr ""
+
+#: src/components/TradePanel/TradePanel.tsx:323
+msgid "Limit Price"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:94
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:94
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:190
+#: src/components/TradePanel/TradePanel.tsx:326
+#: src/components/TradePanel/TradePanel.tsx:346
+#: src/components/TradePanel/TradePanelNonMargin.tsx:321
+msgid "Commission"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:101
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:101
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:170
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:170
+#: src/components/TradePanel/TradePanel.tsx:328
+#: src/components/TradePanel/TradePanel.tsx:344
+#: src/components/TradePanel/TradePanelNonMargin.tsx:339
+msgid "Swap"
+msgstr ""
+
+#: src/components/AccountBar/index.tsx:170
+#: src/components/AccountBarNonMargin/index.tsx:109
+#: src/components/ChallengeDashboard/index.tsx:552
+#: src/components/ChallengeDashboardNonMargin/index.tsx:350
+#: src/components/ChartContainer/ChartPositionInfo/index.tsx:111
+#: src/components/Dashboard/Bonus/index.tsx:47
+#: src/components/DashboardNonMargin/Bonus/index.tsx:47
+#: src/components/Mobile/Header/headerNonMargin.tsx:210
+#: src/components/Mobile/Header/index.tsx:274
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:128
+#: src/components/TradePanel/TradePanel.tsx:333
+#: src/components/TradePanel/TradePanelNonMargin.tsx:326
+msgid "Open P&L"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:108
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:108
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:158
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:158
+#: src/components/TradePanel/TradePanel.tsx:333
+#: src/components/TradePanel/TradePanelNonMargin.tsx:326
+msgid "P&L"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:135
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:173
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:164
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:171
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:164
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:482
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:176
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:184
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:190
+#: src/components/TradePanel/ModalEditStopLossNonMargin/index.tsx:100
+#: src/components/TradePanel/ModalEditStopLossNonMargin/index.tsx:102
+#: src/components/TradePanel/TradePanel.tsx:336
+#: src/components/TradePanel/TradePanelNonMargin.tsx:329
+msgid "Stop Loss"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:184
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:182
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:173
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:180
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:173
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:529
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:181
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:181
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:187
+#: src/components/TradePanel/ModalEditTakeProfitNonMargin/index.tsx:94
+#: src/components/TradePanel/ModalEditTakeProfitNonMargin/index.tsx:96
+#: src/components/TradePanel/TradePanel.tsx:337
+#: src/components/TradePanel/TradePanelNonMargin.tsx:330
+msgid "Take Profit"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:59
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:59
+#: src/components/TradePanel/TradePanel.tsx:343
+msgid "Close Time"
+msgstr ""
+
+#: src/components/Assets/Table/index.tsx:200
+#: src/components/Dashboard/RecentTrades/download.tsx:98
+#: src/components/DashboardNonMargin/RecentTrades/download.tsx:98
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:81
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:117
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:115
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:81
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:115
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:115
+#: src/components/TradeBoxFx/TradeBuyButton/index.tsx:101
+#: src/components/TradeBoxFx/TradeBuyButton/index.tsx:116
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:108
+#: src/components/TradePanel/TradePanel.tsx:397
+#: src/components/TradePanel/TradePanelNonMargin.tsx:389
+msgid "Buy"
+msgstr ""
+
+#: src/components/Assets/Table/index.tsx:190
+#: src/components/Dashboard/RecentTrades/download.tsx:98
+#: src/components/DashboardNonMargin/RecentTrades/download.tsx:98
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:81
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:117
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:115
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:81
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:115
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:115
+#: src/components/TradeBoxFx/TradeSellButton/index.tsx:94
+#: src/components/TradeBoxFx/TradeSellButton/index.tsx:109
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:108
+#: src/components/TradePanel/TradePanel.tsx:398
+#: src/components/TradePanel/TradePanelNonMargin.tsx:390
+msgid "Sell"
+msgstr ""
+
+#: src/components/TradePanel/TradePanelNonMargin.tsx:334
+msgid "Market Close"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:166
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:166
+#: src/components/TradePanel/TradePanelNonMargin.tsx:338
+msgid "Close Reason"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:225
+#: src/components/TradePanel/ModalEditTakeProfitNonMargin/index.tsx:137
+msgid "Estimated Take Profit price"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:507
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:260
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:304
+#: src/components/TradePanel/ModalEditStopLossNonMargin/index.tsx:175
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:301
+#: src/components/TradePanel/ModalEditTakeProfitNonMargin/index.tsx:169
+msgid "Save"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:335
+#: src/components/TradeBoxFx/index.tsx:562
+#: src/components/TradePanel/ModalEditStopLoss/index.tsx:218
+#: src/components/TradePanel/ModalEditTakeProfit/index.tsx:215
+msgid "Pips"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTradeNonMargin/index.tsx:176
+#: src/components/TradePanel/ModalEditStopLossNonMargin/index.tsx:143
+msgid "Estimated Stop Loss price"
+msgstr ""
+
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:84
+msgid "Close trade confirmation"
+msgstr ""
+
+#: src/components/TradePanel/ModalConfirmClose/index.tsx:155
+msgid "Close Now"
+msgstr ""
+
+#: src/components/TradeBoxFx/index.tsx:158
+msgid "MARKET"
+msgstr ""
+
+#: src/components/TradeBoxFx/index.tsx:158
+msgid "LIMIT"
+msgstr ""
+
+#: src/components/TradeBoxFx/index.tsx:158
+msgid "STOP"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:293
+#: src/components/TradeBoxFx/index.tsx:523
+msgid "SL"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ModalEditTrade/index.tsx:301
+#: src/components/TradeBoxFx/index.tsx:531
+msgid "TP"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:654
+#: src/components/TradeBoxFx/index.tsx:701
+msgid "Confirm Buy"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:656
+#: src/components/TradeBoxFx/index.tsx:703
+msgid "Confirm Sell"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:225
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:657
+#: src/components/TradeBoxFx/index.tsx:704
+msgid "Confirm"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxSwitchNonMargin/index.tsx:79
+msgid "Rate"
+msgstr ""
+
+#: src/components/ChartContainer/ChartPositionInfo/index.tsx:97
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:96
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:126
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:123
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:153
+msgid "Leverage"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:102
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:138
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:129
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:165
+msgid "Pip value"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:113
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:140
+msgid "Loss"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:132
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:159
+msgid "Liquidation Price"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxSummary/index.tsx:215
+msgid "Order summary"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxAdvanced/index.tsx:33
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:414
+msgid "Advanced"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:440
+msgid "Open trade if price reaches"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:441
+msgid "Open trade if price reaches not set"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:482
+msgid "Stop Loss not set"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:488
+msgid "Estimated Stop Loss at"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:529
+msgid "Take Profit not set"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxNonMargin/index.tsx:535
+msgid "Estimated Take Profit at"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxMarginUsedPercent/index.tsx:101
+msgid "used margin"
+msgstr ""
+
+#: src/components/TradeBoxFx/TradeBoxLimitPrice/index.tsx:94
+msgid "Limit price"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:149
+msgid "Estd. Loss"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:154
+msgid "Estd. Profit"
+msgstr ""
+
+#: src/components/TradeBoxFx/ModalConfirmSubmit/index.tsx:164
+msgid "Confirm trade?"
+msgstr ""
+
+#: src/components/Mobile/HomeMenuPanel/index.tsx:78
+#: src/components/Mobile/HomeMenuPanel/index.tsx:212
+#: src/components/Sidebar/index.tsx:311
+#: src/components/SidebarNew/index.tsx:336
+msgid "Challenge Dashboard"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/ClosedPositionItem.tsx:94
+#: src/components/SidebarNew/PositionsPanel/ClosedPositionItem.tsx:94
+msgid "Closed Time"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/MobilePositionsPanel.tsx:65
+#: src/components/SidebarNew/PositionsPanel/MobilePositionsPanel.tsx:59
+msgid "LIMIT ORDERS"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:164
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:162
+msgid "Entry Price"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/OpenPositionItem.tsx:200
+#: src/components/Sidebar/PositionsPanel/PendingPositionItem.tsx:191
+#: src/components/SidebarNew/PositionsPanel/OpenPositionItem.tsx:195
+#: src/components/SidebarNew/PositionsPanel/PendingPositionItem.tsx:191
+msgid "Edit SL&TP"
+msgstr ""
+
+#: src/components/Sidebar/PositionsPanel/Placeholder.tsx:53
+#: src/components/SidebarNew/PositionsPanel/Placeholder.tsx:53
+msgid "No Limit Orders"
+msgstr ""
+
+#: src/components/Sidebar/index.tsx:293
+msgid "Open/Closed Positions"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:130
+msgid "1 Step Evaluation trading Challenge"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:134
+msgid "Account Rules"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:161
+msgid "Evaluation"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:164
+msgid "Profit Share"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:862
+#: src/components/ChallengeDashboardNonMargin/index.tsx:823
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:376
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:378
+#: src/components/SideMenuBar/Challenge/index.tsx:174
+msgid "Profit Target"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:187
+msgid "Trading Period"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:192
+msgid "Unlimited Time"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:196
+msgid "For one-time payment of"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:199
+msgid "Free"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:206
+msgid "Minimum Trading Days"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:210
+msgid "Maximum Initial Account Balance Loss"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:216
+msgid "Maximum Daily Loss"
+msgstr ""
+
+#: src/components/SideMenuBar/Challenge/index.tsx:228
+msgid "Start Challenge"
+msgstr ""
+
+#: src/components/Assets/TableSideMode/index.tsx:101
+#: src/components/Mobile/SearchAssetsPanel/Table/index.tsx:108
+msgid "instrmnt"
+msgstr ""
+
+#: src/components/Assets/TableSideMode/index.tsx:106
+#: src/components/Mobile/SearchAssetsPanel/Table/index.tsx:113
+msgid "chg %"
+msgstr ""
+
+#: src/components/Mobile/SearchAssetsPanel/Search/index.tsx:32
+msgid "Select an asset"
+msgstr ""
+
+#: src/components/Assets/GroupsSideMode/constants/groups.ts:15
+#: src/components/Assets/GroupsSideMode/index.tsx:58
+#: src/components/Mobile/SearchAssetsPanel/Groups/constants/groups.ts:15
+#: src/components/Mobile/SearchAssetsPanel/Groups/index.tsx:58
+msgid "Most traded"
+msgstr ""
+
+#: src/components/AccountBar/index.tsx:152
+#: src/components/AccountBarNonMargin/index.tsx:97
+#: src/components/ChallengeDashboard/index.tsx:307
+#: src/components/ChallengeDashboard/index.tsx:692
+#: src/components/ChallengeDashboardNonMargin/index.tsx:302
+#: src/components/ChallengeDashboardNonMargin/index.tsx:653
+#: src/components/Dashboard/Cash/index.tsx:43
+#: src/components/DashboardNonMargin/Cash/index.tsx:43
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:206
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:208
+#: src/components/Mobile/Header/index.tsx:259
+msgid "Equity"
+msgstr ""
+
+#: src/components/AccountBar/index.tsx:158
+#: src/components/Dashboard/Cash/index.tsx:50
+#: src/components/DashboardNonMargin/Cash/index.tsx:50
+#: src/components/Mobile/Header/index.tsx:263
+msgid "Margin Used"
+msgstr ""
+
+#: src/components/AccountBar/index.tsx:164
+#: src/components/Dashboard/Bonus/index.tsx:40
+#: src/components/DashboardNonMargin/Bonus/index.tsx:40
+#: src/components/Mobile/Header/index.tsx:267
+msgid "Free Margin"
+msgstr ""
+
+#: src/components/Mobile/Drawer/index.tsx:174
+msgid "User ID"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:187
+#: src/components/ChallengeDashboardNonMargin/index.tsx:185
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:81
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:81
+msgid "Active"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:189
+#: src/components/ChallengeDashboardNonMargin/index.tsx:187
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:83
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:83
+msgid "On hold"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:192
+#: src/components/ChallengeDashboardNonMargin/index.tsx:190
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:86
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:86
+msgid "Ended"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:622
+#: src/components/ChallengeDashboardNonMargin/index.tsx:583
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:136
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:138
+msgid "Starting date"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:629
+#: src/components/ChallengeDashboardNonMargin/index.tsx:590
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:143
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:145
+msgid "Leverage up to"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:636
+#: src/components/ChallengeDashboardNonMargin/index.tsx:597
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:150
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:152
+msgid "Initial balance"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:649
+#: src/components/ChallengeDashboardNonMargin/index.tsx:610
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:163
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:165
+msgid "Challenge status"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:403
+#: src/components/ChallengeDashboard/index.tsx:729
+#: src/components/ChallengeDashboardNonMargin/index.tsx:402
+#: src/components/ChallengeDashboardNonMargin/index.tsx:690
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:243
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:245
+msgid "Total drawdown"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:438
+#: src/components/ChallengeDashboard/index.tsx:764
+#: src/components/ChallengeDashboardNonMargin/index.tsx:437
+#: src/components/ChallengeDashboardNonMargin/index.tsx:725
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:278
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:280
+msgid "Drawdown limit"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:793
+#: src/components/ChallengeDashboardNonMargin/index.tsx:754
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:307
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:309
+msgid "Max daily drawdown"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:833
+#: src/components/ChallengeDashboardNonMargin/index.tsx:794
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:347
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:349
+msgid "Daily drawdown limit"
+msgstr ""
+
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:412
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:414
+msgid "Trading Days"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:921
+#: src/components/ChallengeDashboardNonMargin/index.tsx:882
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/index.tsx:435
+#: src/components/Mobile/ChallengeDashboardPanel/index.tsx:437
+msgid "Daily Trades Limit"
+msgstr ""
+
+#: src/components/ChallengeDashboard/HeaderSideMode/index.tsx:22
+#: src/components/ChallengeDashboardNonMargin/HeaderSideMode/index.tsx:22
+#: src/components/Mobile/ChallengeDashboardNonMarginPanel/Header/index.tsx:16
+#: src/components/Mobile/ChallengeDashboardPanel/Header/index.tsx:16
+msgid "Trading challengers"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:115
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:115
+msgid "Net Result"
+msgstr ""
+
+#: src/components/Dashboard/RecentTrades/table.tsx:179
+#: src/components/DashboardNonMargin/RecentTrades/table.tsx:179
+msgid "BUY"
+msgstr ""
+
+#: src/components/Dashboard/Bonus/index.tsx:60
+#: src/components/DashboardNonMargin/Bonus/index.tsx:60
+#. const colors = FakeData.theme
+msgid "Available Bonus"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:368
+#: src/components/ChallengeDashboardNonMargin/index.tsx:367
+msgid "Profit target"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:477
+#: src/components/ChallengeDashboardNonMargin/index.tsx:476
+msgid "Drawdown risk-o-meter"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:533
+#: src/components/ChallengeDashboardNonMargin/index.tsx:532
+msgid "Low risk"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:534
+#: src/components/ChallengeDashboardNonMargin/index.tsx:533
+msgid "High risk"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:569
+#: src/components/ChallengeDashboard/index.tsx:898
+#: src/components/ChallengeDashboardNonMargin/index.tsx:859
+msgid "Trading Days Limit"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:342
+msgid "Free margin"
+msgstr ""
+
+#: src/components/ChallengeDashboard/index.tsx:355
+msgid "Margin used"
+msgstr ""

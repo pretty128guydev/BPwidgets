@@ -1,0 +1,63 @@
+.trade-box-desktop {
+  padding: 16px;
+  max-height: 100%;
+  height: 100%;
+  overflow: auto;
+
+  .trade-buttons {
+    display: flex;
+    gap: 16px;
+    margin: 24px 0 16px 0;
+
+    & > .trade-box-btn {
+      flex: 1;
+    }
+  }
+
+  .tradebox-trade-button {
+    margin-top: 1rem;
+    text-align: center;
+    padding: 1rem;
+    border: 2px solid;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
+
+.trade-box-mobile {
+  overflow: auto;
+
+  .trade-buttons {
+    display: flex;
+    gap: 16px;
+    & > .trade-box-btn {
+      flex: 1;
+    }
+  }
+
+  .tradebox-trade-button {
+    margin-top: 1rem;
+    text-align: center;
+    padding: 1rem;
+    border: 2px solid;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
+
+.switch-wraper {
+  padding: 18px 0px;
+  border-top: 1px solid;
+}
+
+.advanced-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  margin: 14px 0;
+  cursor: pointer;
+}

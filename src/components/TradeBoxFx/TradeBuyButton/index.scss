@@ -1,0 +1,47 @@
+.trade-box-buy-btn {
+  display: flex;
+  flex-direction: column;
+  height: 53px !important;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  align-items: center;
+  justify-content: center;
+
+  span.trade-box-btn-title {
+    font-weight: bold;
+    margin-left: 8px;
+    text-transform: uppercase;
+
+    &.title-mobile {
+      margin-right: 10px;
+      font-size: 17px;
+    }
+  }
+}
+
+.first-quote-btn {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+
+  &.quote-mobile {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.end-quote-btn {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.end-quote-sup-btn {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  right: -7px;
+}
